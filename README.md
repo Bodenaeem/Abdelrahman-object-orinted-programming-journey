@@ -4,7 +4,7 @@ Student Information
 Student Name: Abdelrahman Ahmed Naeem
 Student ID: 202505010030
 Course: Object-Oriented Programming (Java)
-Course Code: [Confirm the correct course code]
+Course Code: [DIT 1113]
 Brief Course Description
 
 This course introduces the fundamental concepts of Object-Oriented Programming (OOP) using Java. It focuses on developing programming skills through practical exercises involving classes, objects, constructors, methods, inheritance, and other core programming concepts.
